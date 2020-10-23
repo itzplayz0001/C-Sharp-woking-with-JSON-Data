@@ -1,0 +1,1 @@
+Just got bored with the student record so I decided to do smthing new, also the code for the creation of the record is shown in the creation.png
