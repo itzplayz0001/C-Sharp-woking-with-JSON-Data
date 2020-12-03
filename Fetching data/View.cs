@@ -27,7 +27,7 @@ namespace JSON1
             dProblem.Text = obj["Problem"];
             dFix.Text = obj["Fix"];
             
-            // here the objects inside the [] are the json object
+            // here the objects inside the [""] are the json object
             
         }
 
